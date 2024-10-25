@@ -1,2 +1,2 @@
 # PickupItsForYouMobile
-Mobile Version Of Pickup Its For You. Owned By Relux Studios.
+The HTML Can Be Downloaded And Ran Offlie
